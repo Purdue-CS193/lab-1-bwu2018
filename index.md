@@ -1,4 +1,4 @@
-#Brandon's first CS193 Lab
+# Brandon's first CS193 Lab
 - Fun labs
 - Interesting classes
 - Busses so you don't have to walk that much
