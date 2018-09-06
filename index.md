@@ -1,3 +1,10 @@
+#Brandon's first CS193 Lab
+- Fun labs
+- Interesting classes
+- Busses so you don't have to walk that much
+- Amazing gym
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
